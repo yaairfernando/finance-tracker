@@ -6,16 +6,22 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">:gem: Dribble With Ruby :gem:</h3>
+  <h3 align="center">Finance Tracker Application</h3>
 
   <p align="center">
-    This is a ruby and rails project that covers a clone of Dribble, including some of the application
-    features as well as a clean style.
+    This is a ruby and rails project that covers a Finance Tracker Application where
+    you'll find a authentication system, users can sign up, edit their profile also
+    users can track stocks, up to 10 per user. Their profile page will display all the
+    stocks they are tracking with their current price.
+    Users can search for stocks, add and remove stocks from their portfolio.
+    Users can look for friends, or other users of the app, by name or email.
+    Users can view the portfolio of stocks their friends are tracking for investing ideas.
+    The application also includes a responsive style.
     <br />
-    <a href="https://github.com/YairFernando67/Dribble_App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/YairFernando67/finance-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/YairFernando67/Dribble_App/issues">Report Bug</a>
+    <a href="https://github.com/YairFernando67/finance-tracker/issues">Report Bug</a>
     ·
   </p>
 </p>
@@ -37,13 +43,13 @@
 
 ![Screenshot Image](app/assets/images/logo.png)
 
-This is a Dribble project with ruby and rails 
+This is a Finance Tracker project with ruby and rails 
 
 ### Built With
 The project was developed using these tools and technologies.
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [HTML5](https://www.w3schools.com/html/)
-* [Reset CSS File](https://necolas.github.io/normalize.css/)
+* [Bootstrap](https://getbootstrap.com/)
 * [Ruby](https://www.ruby-lang.org/es/)
 * [Ruby and Rails](https://rubyonrails.org/)
 * [JQuery Rails](https://github.com/rails/jquery-rails)
@@ -55,7 +61,7 @@ The project was developed using these tools and technologies.
 
 Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - yair.facio11@gmail.com  
 
-Project Link: [https://github.com/YairFernando67/Dribble_App](https://github.com/YairFernando67/Dribble_App)
+Project Link: [https://github.com/YairFernando67/finance-tracker](https://github.com/YairFernando67/finance-tracker)
 
 
 
@@ -67,13 +73,9 @@ This is the list of the gems that are required
 - [Devise](https://github.com/plataformatec/devise) - Used to the user authentication system
 - [Guard Livereload](https://github.com/guard/guard-livereload) - Provides a livereload on the browser when your local files change.
 - [Guard](https://github.com/guard/guard) - Work with files when they change
-- [Acts As Votable](https://github.com/ryanto/acts_as_votable) - Like and unlike shots
-- [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) + [Mini Magick](https://github.com/minimagick/minimagick) - Upload images
 - [Gravatar Image Tag](https://github.com/mdeering/gravatar_image_tag) - It is helpful to use user's gravatar based on their emails
 - [Better Errors](https://github.com/charliesome/better_errors) - Give you a better display of the errors. 
-- [Impressionist](https://github.com/charlotte-ruby/impressionist) - To count views
-- [Simple Form](https://github.com/plataformatec/simple_form) - Provide simple sintax forms
-- [Bulma Rails](https://github.com/joshuajansen/bulma-rails) - CSS framework.
+- [Bootstrap-sass](https://rubygems.org/gems/bootstrap-sass) - CSS framework.
 - [hirb](http://tagaholic.me/hirb/doc/) - It desplays a better view of the database
 
 
