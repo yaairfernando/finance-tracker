@@ -75,7 +75,7 @@ This is the list of the gems that are required
 - [Guard](https://github.com/guard/guard) - Work with files when they change
 - [Gravatar Image Tag](https://github.com/mdeering/gravatar_image_tag) - It is helpful to use user's gravatar based on their emails
 - [Better Errors](https://github.com/charliesome/better_errors) - Give you a better display of the errors. 
-- [Bootstrap-sass](https://rubygems.org/gems/bootstrap-sass) - CSS framework.
+- [twitter-bootstrap-rails](https://rubygems.org/gems/twitter-bootstrap-rails) - twitter-bootstrap-rails project integrates Bootstrap CSS toolkit for Rails 4, 3.x Asset Pipeline
 - [hirb](http://tagaholic.me/hirb/doc/) - It desplays a better view of the database
 
 

@@ -37,6 +37,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'hirb'
 gem 'devise', '~> 4.7', '>= 4.7.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'twitter-bootstrap-rails', '~> 4.0'
+gem 'devise-bootstrap-views'
 
 group :development, :test do
   gem 'sqlite3'
