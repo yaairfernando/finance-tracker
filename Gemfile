@@ -40,6 +40,8 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'devise-bootstrap-views'
+gem "stock_quote", '~> 3.0.0'
+gem 'iex-ruby-client'
 
 group :development, :test do
   gem 'sqlite3'
